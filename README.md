@@ -10,7 +10,7 @@
 
 ### Clone this repository
 ```bash
-git clone https://github.com/BalaAtchaya2004/Geo-Tracker
+git clone https://github.com/Balaatchayar/Geo-Tracker
 ```
 
 ### Installation
