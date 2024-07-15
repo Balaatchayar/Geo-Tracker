@@ -17,7 +17,7 @@ function App() {
     try {
       const getInitialData = async () => {
         const res = await fetch(
-          `https://geo.ipify.org/api/v2/country,city?apiKey=at_6qiFBDSF4HNzWNP96T51MuVLIDMQa&ipAddress=59.92.85.229`
+          `https://geo.ipify.org/api/v2/country,city?apiKey=at_6qiFBDSF4HNzWNP96T51MuVLIDMQa&ipAddress= 192.168.96.79`
         )
         const data = await res.json()
         setAddress(data)
